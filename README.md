@@ -19,7 +19,7 @@ Goal(s):¶
 Predict if a customer is happy or not based on the answers they give to questions asked.
 
 Conclusion
-The best performing model is the Random Forest Classifier. The model predicts with a 81% accuracy/data accounted for and can properly account for a yes or no based on the target answer of "Y"
+The best performing model is the Decision Tree. The model predicts with a 81% accuracy/data accounted for and can properly account for a yes or no based on the target answer of "Y"
 
 This model was decided upon by utilizing a Grid Search for the best hyper parameters and the feature selection was done based upon a CHI- Test which demonstrates which feature is the most useful towards calculating the Target Variable.
 
